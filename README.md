@@ -9,3 +9,7 @@ sch: https://www.google.com/search?q=vermont+title+loophole
 - https://www.hagerty.com/media/opinion/the-hack-mechanic/the-end-of-the-vermont-loophole/
 
 - https://jalopnik.com/my-bus-has-plates-because-the-vermont-dmv-is-secretly-a-1845700048
+
+# Criticism:
+video:
+- [Vermont Title License Plate Warning - bill of sale loophole](https://youtu.be/yba71XSEqrA)
